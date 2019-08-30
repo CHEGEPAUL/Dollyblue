@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735041818585",
+    "firebase_url": "https://logindollyblue.firebaseio.com",
+    "project_id": "logindollyblue",
+    "storage_bucket": "logindollyblue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735041818585:android:72a4c55934e78f29",
+        "android_client_info": {
+          "package_name": "com.example.dollyblue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735041818585-7o8eik1drsuj9ad70s3b8ickv7m8g97m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dollyblue",
+            "certificate_hash": "90ac402c7f8d2b1b59b8677b34912604f4a2fa87"
+          }
+        },
+        {
+          "client_id": "735041818585-v07oh338ec7jss7dacjobn719ci8b7ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvCFVJntDj0WvM2gDwK_p6UjjwYyA1_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735041818585-v07oh338ec7jss7dacjobn719ci8b7ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
